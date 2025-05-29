@@ -4,7 +4,7 @@ import WeekCalendar from './Dashboard/CalenderView';
 import NextAppointments from './Dashboard/UpcomingScedule';
 import ActivityOverview from './Dashboard/ActivityChart';
 import { calendarData, specialAppointments, upcomingAppointments, activityData } from './Data/AppointmentsData';
-import { healthIndicators } from './Data/healthData';
+import { healthIndicators } from './Data/HealthData';
 
 const DashboardContent = () => {
   return (
