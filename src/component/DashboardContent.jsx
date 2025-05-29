@@ -1,5 +1,5 @@
 import React from 'react';
-import BodyOverview from './dashboard/AnatomySection';
+import BodyOverview from './Dashboard/AnatomySection';
 import WeekCalendar from './Dashboard/CalenderView';
 import NextAppointments from './Dashboard/UpcomingScedule';
 import ActivityOverview from './Dashboard/ActivityChart';
